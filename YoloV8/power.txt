@@ -1,0 +1,8 @@
+vless://816e4bee-951b-4318-aab6-78e9c4e6c993@frs.venuses.ir:443?encryption=none&security=tls&sni=frs.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#sshmax-FRS
+vless://816e4bee-951b-4318-aab6-78e9c4e6c993@frs.venuses.ir:443?encryption=none&security=tls&sni=frs.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=frs.venuses.ir&path=%2Fvless#sshmax-FRS
+vless://8f4e3c9f-8788-4ce5-92d0-0a9661e52595@nl.venuses.ir:443?encryption=none&security=tls&sni=nl.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=nl.venuses.ir&path=%2Fvless#sshmax-NL
+vless://8f4e3c9f-8788-4ce5-92d0-0a9661e52595@nl.venuses.ir:443?encryption=none&security=tls&sni=nl.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#sshmax-NL
+vless://4a557e9b-ac90-494b-93ec-917da1d159f5@uk.venuses.ir:443?encryption=none&security=tls&sni=uk.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk.venuses.ir&path=%2Fvless#sshmax-UK
+vless://4a557e9b-ac90-494b-93ec-917da1d159f5@uk.venuses.ir:443?encryption=none&security=tls&sni=uk.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#sshmax-UK
+vless://7803331b-88a7-479b-b596-2b642040e3b0@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us2.venuses.ir&path=%2Fvless#sshmax-US2
+vless://7803331b-88a7-479b-b596-2b642040e3b0@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#sshmax-US2
