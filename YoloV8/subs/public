@@ -1,0 +1,2 @@
+vless://308a0843-3402-4bde-a55c-910907acb4b0@us1.developernima.ir:443?encryption=none&security=tls&sni=us1.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us1.vless.site&path=%2Fvless#🇺🇸 USA Static IP - WS
+vless://308a0843-3402-4bde-a55c-910907acb4b0@us1.developernima.ir:443?encryption=none&security=tls&sni=us1.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA Static IP - gRPC
