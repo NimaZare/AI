@@ -1,2 +1,5 @@
-vless://308a0843-3402-4bde-a55c-910907acb4b0@us1.developernima.ir:443?encryption=none&security=tls&sni=us1.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us1.vless.site&path=%2Fvless#🇺🇸 USA Static IP - WS
-vless://308a0843-3402-4bde-a55c-910907acb4b0@us1.developernima.ir:443?encryption=none&security=tls&sni=us1.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA Static IP - gRPC
+vless://42a9a72f-5de3-4e59-86dc-8cf3fc944cfd@us1.developernima.ir:443?encryption=none&security=tls&sni=us1.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us1.vless.site&path=%2Fvless#🇺🇸 USA-1 Static IP - WS
+vless://42a9a72f-5de3-4e59-86dc-8cf3fc944cfd@us1.developernima.ir:443?encryption=none&security=tls&sni=us1.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 Static IP - gRPC
+
+vless://6d0cdd77-8634-4e81-a70e-674493f1d89d@us2.developernima.ir:443?encryption=none&security=tls&sni=us2.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us2.vless.site&path=%2Fvless#🇺🇸 USA-2 Static IP - WS
+vless://6d0cdd77-8634-4e81-a70e-674493f1d89d@us2.developernima.ir:443?encryption=none&security=tls&sni=us2.vless.site&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 Static IP - gRPC
