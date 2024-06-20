@@ -1,5 +1,0 @@
-vless://815d468e-70e2-4f8c-b784-ac9847dc7b8c@us1.venuses.ir:443?encryption=none&security=tls&sni=us1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us1.venuses.ir&path=%2Fvless#🇺🇸 US-1 WS
-vless://815d468e-70e2-4f8c-b784-ac9847dc7b8c@us1.venuses.ir:443?encryption=none&security=tls&sni=us1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 US-1 gRPC
-
-vless://00212f03-be95-4409-9a55-44204c36f89f@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us2.venuses.ir&path=%2Fvless#🇺🇸 US-2 WS
-vless://00212f03-be95-4409-9a55-44204c36f89f@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 US-2 gRPC
