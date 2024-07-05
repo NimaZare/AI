@@ -1,11 +1,11 @@
-vless://e4c0ca65-f9ca-48aa-8e79-5b21e128d4dc@us1.venuses.ir:443?encryption=none&security=tls&sni=us1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us1.venuses.ir&path=%2Fvless#🇺🇸 USA-1 WS
-vless://e4c0ca65-f9ca-48aa-8e79-5b21e128d4dc@us1.venuses.ir:443?encryption=none&security=tls&sni=us1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 gRPC
+vless://73961535-c10c-4865-a3db-3dcf18c8056d@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa1.venuses.ir&path=%2Fvless#🇺🇸 USA-1 WS
+vless://73961535-c10c-4865-a3db-3dcf18c8056d@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 gRPC
 
-vless://31feee37-0b94-4e10-8603-ca223e602aa6@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us2.venuses.ir&path=%2Fvless#🇺🇸 USA-2 WS
-vless://31feee37-0b94-4e10-8603-ca223e602aa6@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 gRPC
+vless://7cfc327d-c576-47b7-9b60-4979de64a6cd@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa2.venuses.ir&path=%2Fvless#🇺🇸 USA-2 WS
+vless://7cfc327d-c576-47b7-9b60-4979de64a6cd@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 gRPC
 
-vless://4e4bebd0-0774-4092-9161-37aa26828c28@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa1.venuses.ir&path=%2Fvless#🇺🇸 USA-3 WS
-vless://4e4bebd0-0774-4092-9161-37aa26828c28@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-3 gRPC
+vless://8b530305-4ce9-4d8a-947c-cfa36f1fd3f9@us1.venuses.ir:443?encryption=none&security=tls&sni=us1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us1.venuses.ir&path=%2Fvless#🇺🇸 USA-3 WS
+vless://8b530305-4ce9-4d8a-947c-cfa36f1fd3f9@us1.venuses.ir:443?encryption=none&security=tls&sni=us1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-3 gRPC
 
-vless://66241176-8765-4834-88a8-f8ecd7610fd1@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa2.venuses.ir&path=%2Fvless#🇺🇸 USA-4 WS
-vless://66241176-8765-4834-88a8-f8ecd7610fd1@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-4 gRPC
+vless://ae5c860d-a96a-492f-a08e-41f74f996cc1@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=us2.venuses.ir&path=%2Fvless#🇺🇸 USA-4 WS
+vless://ae5c860d-a96a-492f-a08e-41f74f996cc1@us2.venuses.ir:443?encryption=none&security=tls&sni=us2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-4 gRPC
