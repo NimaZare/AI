@@ -1,23 +1,23 @@
-vless://287c6bd2-76fb-41d5-9bb2-4c3af888a8b3@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa1.venuses.ir&path=%2Fvless#🇺🇸 USA-1 W
-vless://287c6bd2-76fb-41d5-9bb2-4c3af888a8b3@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 G
+vless://dad8add4-df42-4f48-8196-114c01f0d048@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa1.venuses.ir&path=%2Fvless#🇺🇸 USA-1 W
+vless://dad8add4-df42-4f48-8196-114c01f0d048@usa1.venuses.ir:443?encryption=none&security=tls&sni=usa1.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 G
 
-vless://9af008c6-b324-4f7a-8de3-ab41b0646ddc@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa2.venuses.ir&path=%2Fvless#🇺🇸 USA-2 W
-vless://9af008c6-b324-4f7a-8de3-ab41b0646ddc@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 G
+vless://e0e1e688-e653-44f9-a329-1460c570ce35@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa2.venuses.ir&path=%2Fvless#🇺🇸 USA-2 W
+vless://e0e1e688-e653-44f9-a329-1460c570ce35@usa2.venuses.ir:443?encryption=none&security=tls&sni=usa2.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 G
 
-vless://0fc726b6-4a72-5e5f-9480-961a862fb33d@usa3.venuses.ir:443?encryption=none&security=tls&sni=usa3.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa3.venuses.ir&path=%2Fvless#🇺🇸 USA-3 W
-vless://0fc726b6-4a72-5e5f-9480-961a862fb33d@usa3.venuses.ir:443?encryption=none&security=tls&sni=usa3.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-3 G
+vless://b88bf302-704b-5246-96a6-286d07f40b96@usa3.venuses.ir:443?encryption=none&security=tls&sni=usa3.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa3.venuses.ir&path=%2Fvless#🇺🇸 USA-3 W
+vless://b88bf302-704b-5246-96a6-286d07f40b96@usa3.venuses.ir:443?encryption=none&security=tls&sni=usa3.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-3 G
 
-vless://fb7ced0c-fd8b-590c-b1c3-e4a38a2acf3a@usa4.venuses.ir:443?encryption=none&security=tls&sni=usa4.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa4.venuses.ir&path=%2Fvless#🇺🇸 USA-4 W
-vless://fb7ced0c-fd8b-590c-b1c3-e4a38a2acf3a@usa4.venuses.ir:443?encryption=none&security=tls&sni=usa4.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-4 G
+vless://491b765b-2059-5615-bd24-ffdfa3e394dc@usa4.venuses.ir:443?encryption=none&security=tls&sni=usa4.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=usa4.venuses.ir&path=%2Fvless#🇺🇸 USA-4 W
+vless://491b765b-2059-5615-bd24-ffdfa3e394dc@usa4.venuses.ir:443?encryption=none&security=tls&sni=usa4.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-4 G
 
-vless://ee64b918-ff0b-4b0c-9aa0-d82c4f951419@uk1.venuses.ir:443?encryption=none&security=tls&sni=uk1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk1.venuses.ir&path=%2Fvless#🇬🇧 UK-1 W
-vless://ee64b918-ff0b-4b0c-9aa0-d82c4f951419@uk1.venuses.ir:443?encryption=none&security=tls&sni=uk1.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-1 G
+vless://b9dc9038-6798-4421-8fb8-e93a08d18b91@uk1.venuses.ir:443?encryption=none&security=tls&sni=uk1.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk1.venuses.ir&path=%2Fvless#🇬🇧 UK-1 W
+vless://b9dc9038-6798-4421-8fb8-e93a08d18b91@uk1.venuses.ir:443?encryption=none&security=tls&sni=uk1.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-1 G
 
-vless://f8435fb6-af46-47b9-b0f0-c3b4903402be@uk2.venuses.ir:443?encryption=none&security=tls&sni=uk2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk2.venuses.ir&path=%2Fvless#🇬🇧 UK-2 W
-vless://f8435fb6-af46-47b9-b0f0-c3b4903402be@uk2.venuses.ir:443?encryption=none&security=tls&sni=uk2.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-2 G
+vless://5845a2c9-7da1-4985-a27e-ff65718fa59d@uk2.venuses.ir:443?encryption=none&security=tls&sni=uk2.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk2.venuses.ir&path=%2Fvless#🇬🇧 UK-2 W
+vless://5845a2c9-7da1-4985-a27e-ff65718fa59d@uk2.venuses.ir:443?encryption=none&security=tls&sni=uk2.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-2 G
 
-vless://9097e953-788d-5333-a077-c18df04109f8@uk3.venuses.ir:443?encryption=none&security=tls&sni=uk3.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk3.venuses.ir&path=%2Fvless#🇬🇧 UK-3 W
-vless://9097e953-788d-5333-a077-c18df04109f8@uk3.venuses.ir:443?encryption=none&security=tls&sni=uk3.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-3 G
+vless://ef6bd30f-a0bc-592a-9009-6f4097f93249@uk3.venuses.ir:443?encryption=none&security=tls&sni=uk3.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk3.venuses.ir&path=%2Fvless#🇬🇧 UK-3 W
+vless://ef6bd30f-a0bc-592a-9009-6f4097f93249@uk3.venuses.ir:443?encryption=none&security=tls&sni=uk3.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-3 G
 
-vless://44a2ab44-7b9a-5dba-803c-8a8fc60b8b29@uk4.venuses.ir:443?encryption=none&security=tls&sni=uk4.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk4.venuses.ir&path=%2Fvless#🇬🇧 UK-4 W
-vless://44a2ab44-7b9a-5dba-803c-8a8fc60b8b29@uk4.venuses.ir:443?encryption=none&security=tls&sni=uk4.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-4 G
+vless://2cd5836a-5958-5aa0-86c2-9875e5df9676@uk4.venuses.ir:443?encryption=none&security=tls&sni=uk4.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=uk4.venuses.ir&path=%2Fvless#🇬🇧 UK-4 W
+vless://2cd5836a-5958-5aa0-86c2-9875e5df9676@uk4.venuses.ir:443?encryption=none&security=tls&sni=uk4.venuses.ir&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-4 G
