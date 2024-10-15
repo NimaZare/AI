@@ -1,17 +1,17 @@
-vless://bee27177-dee4-5cbf-b2bf-0c70c41decb0@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=one.venuses.ir&path=%2Fvless#🇺🇸 USA-1 W
-vless://bee27177-dee4-5cbf-b2bf-0c70c41decb0@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 G
+vless://1f07118f-d3e6-5a27-9174-c917af71712a@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=one.venuses.ir&path=%2Fvless#🇺🇸 USA-1 W
+vless://1f07118f-d3e6-5a27-9174-c917af71712a@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 G
 
-vless://f70de92c-1231-5b29-aca3-e505dabf4cc6@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=two.venuses.ir&path=%2Fvless#🇺🇸 USA-2 W
-vless://f70de92c-1231-5b29-aca3-e505dabf4cc6@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 G
+vless://13fc5a13-faa0-5e71-9598-8700d91b5ffb@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=two.venuses.ir&path=%2Fvless#🇺🇸 USA-2 W
+vless://13fc5a13-faa0-5e71-9598-8700d91b5ffb@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 G
 
-vless://f81997d1-9a7b-5871-a60d-cf5b4fd4d1d3@three.venuses.ir:443?encryption=none&security=tls&sni=three.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=three.venuses.ir&path=%2Fvless#🇬🇧 UK-1 W
-vless://f81997d1-9a7b-5871-a60d-cf5b4fd4d1d3@three.venuses.ir:443?encryption=none&security=tls&sni=three.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-1 G
+vless://f594eba8-2a14-5c40-a5d5-4143187e12cb@three.venuses.ir:443?encryption=none&security=tls&sni=three.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=three.venuses.ir&path=%2Fvless#🇬🇧 UK-1 W
+vless://f594eba8-2a14-5c40-a5d5-4143187e12cb@three.venuses.ir:443?encryption=none&security=tls&sni=three.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-1 G
 
-vless://8060aa71-5c8a-5f2f-8213-7791b4806962@four.venuses.ir:443?encryption=none&security=tls&sni=four.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=four.venuses.ir&path=%2Fvless#🇬🇧 UK-2 W
-vless://8060aa71-5c8a-5f2f-8213-7791b4806962@four.venuses.ir:443?encryption=none&security=tls&sni=four.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-2 G
+vless://b94e48df-58c5-53de-beb2-f25563483e87@four.venuses.ir:443?encryption=none&security=tls&sni=four.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=four.venuses.ir&path=%2Fvless#🇬🇧 UK-2 W
+vless://b94e48df-58c5-53de-beb2-f25563483e87@four.venuses.ir:443?encryption=none&security=tls&sni=four.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-2 G
 
-vless://2912050d-c744-59bb-9410-a0c30afb3f65@five.venuses.ir:443?encryption=none&security=tls&sni=five.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=five.venuses.ir&path=%2Fvless#🇳🇱 NL-1 W
-vless://2912050d-c744-59bb-9410-a0c30afb3f65@five.venuses.ir:443?encryption=none&security=tls&sni=five.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇳🇱 NL-1 G
+vless://1de939d4-a044-50f4-a4ea-01eb23071a19@five.venuses.ir:443?encryption=none&security=tls&sni=five.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=five.venuses.ir&path=%2Fvless#🇳🇱 NL-1 W
+vless://1de939d4-a044-50f4-a4ea-01eb23071a19@five.venuses.ir:443?encryption=none&security=tls&sni=five.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇳🇱 NL-1 G
 
-vless://2390dd47-65df-575a-ae1f-b83dbd66fc94@six.venuses.ir:443?encryption=none&security=tls&sni=six.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=six.venuses.ir&path=%2Fvless#🇳🇱 NL-2 W
-vless://2390dd47-65df-575a-ae1f-b83dbd66fc94@six.venuses.ir:443?encryption=none&security=tls&sni=six.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇳🇱 NL-2 G
+vless://84180f93-b27a-5be5-97cc-b4259f7f03f2@six.venuses.ir:443?encryption=none&security=tls&sni=six.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=six.venuses.ir&path=%2Fvless#🇳🇱 NL-2 W
+vless://84180f93-b27a-5be5-97cc-b4259f7f03f2@six.venuses.ir:443?encryption=none&security=tls&sni=six.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇳🇱 NL-2 G
