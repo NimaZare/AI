@@ -1,8 +1,8 @@
-vless://45c0b46d-6dce-5526-a463-4148647fc509@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=one.venuses.ir&path=%2Fvless#🇺🇸 USA-1 W
-vless://45c0b46d-6dce-5526-a463-4148647fc509@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 G
+vless://c39f0a2f-58e0-5a48-937b-9eecc1af2a55@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=one.venuses.ir&path=%2Fvless#🇺🇸 USA-1 W
+vless://c39f0a2f-58e0-5a48-937b-9eecc1af2a55@one.venuses.ir:443?encryption=none&security=tls&sni=one.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-1 G
 
-vless://59c58afb-3414-5e8b-bd46-c568aae28870@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=two.venuses.ir&path=%2Fvless#🇺🇸 USA-2 W
-vless://59c58afb-3414-5e8b-bd46-c568aae28870@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 G
+vless://66257ad0-7977-5f2e-91f6-24b776f927d0@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=two.venuses.ir&path=%2Fvless#🇺🇸 USA-2 W
+vless://66257ad0-7977-5f2e-91f6-24b776f927d0@two.venuses.ir:443?encryption=none&security=tls&sni=two.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇺🇸 USA-2 G
 
 ###vless://9c117862-abba-586d-83d2-63016619e7d8@three.venuses.ir:443?encryption=none&security=tls&sni=three.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=three.venuses.ir&path=%2Fvless#🇬🇧 UK-1 W
 ###vless://9c117862-abba-586d-83d2-63016619e7d8@three.venuses.ir:443?encryption=none&security=tls&sni=three.venuses.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇬🇧 UK-1 G
